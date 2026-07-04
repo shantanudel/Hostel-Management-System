@@ -127,7 +127,7 @@ The **Hostel Management System (HMS)** is a comprehensive solution designed to s
 
 4. **Access the Application**:
 
-   Open your browser and navigate to [http://localhost:5173](http://localhost:5173).
+   Open your browser and navigate to [ https://project-hms-frontend-l3vz.onrender.com/ ]
 
 
 
