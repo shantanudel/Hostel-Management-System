@@ -95,46 +95,41 @@ The **Hostel Management System (HMS)** is a comprehensive solution designed to s
 
 1. **Clone the Repository**:
 
-   ```bash
-   git clone https://github.com/amansinghnishad/Project-HMS.git
-   cd Project-HMS
-   ```
+   
+   git clone https://github.com/shantanudel/Hostel-Management-System.git
+
 
 2. **Install Dependencies**:
 
    - For the backend:
 
-     ```bash
      cd backend
      npm install
-     ```
+   
 
    - For the frontend:
 
-     ```bash
-     cd frontend
+    cd frontend
      npm install
-     ```
+    
 
-3. **Start the Servers**:
+3. **Run Application**:
 
    - Backend:
 
-     ```bash
      npm start
-     ```
+   
 
    - Frontend:
 
-     ```bash
      npm run dev
-     ```
+    
 
 4. **Access the Application**:
 
    Open your browser and navigate to [http://localhost:5173](http://localhost:5173).
 
----
+
 
 
 
