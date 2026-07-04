@@ -1,0 +1,289 @@
+[
+  {
+    "hostelId": "H001",
+    "HostelName": "Kautilya Hall",
+    "Total-Capacity": 155,
+    "No-of-rooms": {
+      "singleSeater": 20,
+      "tripleSeater": 45
+    },
+    "description": "Kautilya Hall, one of the prominent Boys Hostels at University of Lucknow, is situated within the main campus, surrounded by other student residences. This large hostel features 132 living rooms, a Common Hall, a Dining Hall, and two expansive, beautiful lawns that create a lush green environment. The premises also include a Provost Office and a separate, furnished Guest House with two rooms. Kautilya Hall is wi-fi enabled and dedicated to providing students with all essential amenities, such as well-furnished rooms, water coolers with RO Purifiers, washing machines, refrigerators, geysers, an open-air gymnasium, and sports facilities. A common room offers a television, newspapers, magazines, and indoor games for student entertainment. There is also a well-equipped kitchen available. \n\n  Festivals like Diwali, Holi, Mahashivratri, New Year, and Eid, alongside national festivals. Numerous academic and cultural competitions have been organized in this hostel, notably under the Inter Hostel Fest-2020. \n\n Many distinguished professors from the university have served long tenures at this hostel.",
+    "facilities": ["gym", "wifi", "library", "indoor sports"],
+    "hostelFor": "male",
+    "location": "New Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Abhishekh Kumar",
+        "department": "Institute of Pharmaceutical Sciences",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226031",
+        "mobile": "9450868700",
+        "email": "rai.pharma@gmail.com",
+        "imageUrl": "/KT1.jpg"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Dr. Ajay Manjhi",
+        "department": "Institute of Management Sciences",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226031",
+        "mobile": "9807074612",
+        "email": " ajaymanjhi@gmail.com",
+        "imageUrl": "/KT2.jpeg"
+      }
+    ]
+  },
+  {
+    "hostelId": "H002",
+    "HostelName": "Homi Jehangir Bhabha Hall",
+    "Total-Capacity": 180,
+    "No-of-rooms": {
+      "singleSeater": 10,
+      "doubleSeater": 25,
+      "tripleSeater": 40
+    },
+    "description": "Homi Jehangir Bhabha Hall is a well-regarded male hostel located on the Old Campus of the University of Lucknow. With a capacity of 180 students, it offers a comfortable and secure living environment. The hostel features essential amenities such as a spacious common room for recreational activities, a dedicated dining hall serving regular meals, and campus-wide Wi-Fi connectivity to support academic pursuits. The rooms are designed to cater to diverse student needs and preferences, offering a mix of single, double, and triple occupancy options based on availability.\n\nLife at Homi Jehangir Bhabha Hall is vibrant and engaging, with a strong emphasis on community and extracurricular involvement. Students regularly participate in various cultural events, sports competitions, and academic workshops organized throughout the year. The hostel celebrates major festivals like Diwali, Holi, and Eid with enthusiasm, fostering a sense of camaraderie and cultural exchange among residents from different backgrounds. This active student life contributes to a holistic development experience, complementing their academic journey at the university.\n\nHomi Jehangir Bhabha Hall is committed to providing a conducive atmosphere for learning and personal growth. The administration ensures the well-being of its residents through diligent maintenance of facilities, robust security measures, and responsive support services. The hostel aims to be more than just a place of residence; it strives to be a supportive community where students can thrive academically, socially, and personally.",
+    "facilities": ["wifi", "library", "indoor sports", "cafeteria"],
+    "hostelFor": "male",
+    "location": "New Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Alok Sharma",
+        "department": "Department of Physics",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500001",
+        "email": "alok.sharma.provost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Dr. Priya Mehta",
+        "department": "Department of Chemistry",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500002",
+        "email": "priya.mehta.asstprovost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      }
+    ]
+  },
+  {
+    "hostelId": "H003",
+    "HostelName": "Ganga Hostel",
+    "Total-Capacity": 290,
+    "No-of-rooms": {
+      "singleSeater": 20,
+      "doubleSeater": 40,
+      "tripleSeater": 50
+    },
+    "description": "Ganga Hostel is a well-regarded female hostel located on the New Campus of the University of Lucknow. With a capacity of 290 students, it offers a comfortable and secure living environment. The hostel features essential amenities such as a spacious common room for recreational activities, a dedicated dining hall serving regular meals, and campus-wide Wi-Fi connectivity to support academic pursuits. The rooms are designed to cater to diverse student needs and preferences, offering a mix of single, double, and triple occupancy options based on availability.\n\nLife at Ganga Hostel is vibrant and engaging, with a strong emphasis on community and extracurricular involvement. Students regularly participate in various cultural events, sports competitions, and academic workshops organized throughout the year. The hostel celebrates major festivals like Diwali, Holi, and Eid with enthusiasm, fostering a sense of camaraderie and cultural exchange among residents from different backgrounds. This active student life contributes to a holistic development experience, complementing their academic journey at the university.\n\nGanga Hostel is committed to providing a conducive atmosphere for learning and personal growth. The administration ensures the well-being of its residents through diligent maintenance of facilities, robust security measures, and responsive support services. The hostel aims to be more than just a place of residence; it strives to be a supportive community where students can thrive academically, socially, and personally.",
+    "facilities": ["gym", "wifi", "library", "garden"],
+    "hostelFor": "female",
+    "location": "New Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Sunita Verma",
+        "department": "Department of Botany",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500003",
+        "email": "sunita.verma.provost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Ms. Anjali Singh",
+        "department": "Department of Zoology",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500004",
+        "email": "anjali.singh.asstprovost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      }
+    ]
+  },
+  {
+    "hostelId": "H004",
+    "HostelName": "Lavanya Hostel",
+    "Total-Capacity": 300,
+    "No-of-rooms": {
+      "singleSeater": 25,
+      "doubleSeater": 45,
+      "tripleSeater": 55
+    },
+    "description": "Lavanya Hostel is a well-regarded female hostel located on the Old Campus of the University of Lucknow. With a capacity of 300 students, it offers a comfortable and secure living environment. The hostel features essential amenities such as a spacious common room for recreational activities, a dedicated dining hall serving regular meals, and campus-wide Wi-Fi connectivity to support academic pursuits. The rooms are designed to cater to diverse student needs and preferences, offering a mix of single, double, and triple occupancy options based on availability.\n\nLife at Lavanya Hostel is vibrant and engaging, with a strong emphasis on community and extracurricular involvement. Students regularly participate in various cultural events, sports competitions, and academic workshops organized throughout the year. The hostel celebrates major festivals like Diwali, Holi, and Eid with enthusiasm, fostering a sense of camaraderie and cultural exchange among residents from different backgrounds. This active student life contributes to a holistic development experience, complementing their academic journey at the university.\n\nLavanya Hostel is committed to providing a conducive atmosphere for learning and personal growth. The administration ensures the well-being of its residents through diligent maintenance of facilities, robust security measures, and responsive support services. The hostel aims to be more than just a place of residence; it strives to be a supportive community where students can thrive academically, socially, and personally.",
+    "facilities": ["wifi", "library", "indoor sports", "laundry"],
+    "hostelFor": "female",
+    "location": "New Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Sunita Verma",
+        "department": "Department of Botany",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500003",
+        "email": "sunita.verma.provost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Ms. Anjali Singh",
+        "department": "Department of Zoology",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500004",
+        "email": "anjali.singh.asstprovost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      }
+    ]
+  },
+  {
+    "hostelId": "H005",
+    "HostelName": "BR Ambedkar Hostel",
+    "Total-Capacity": 280,
+    "No-of-rooms": {
+      "singleSeater": 20,
+      "doubleSeater": 40,
+      "tripleSeater": 50
+    },
+    "description": "BR Ambedkar Hostel is a well-regarded female hostel located on the New Campus of the University of Lucknow. With a capacity of 280 students, it offers a comfortable and secure living environment. The hostel features essential amenities such as a spacious common room for recreational activities, a dedicated dining hall serving regular meals, and campus-wide Wi-Fi connectivity to support academic pursuits. The rooms are designed to cater to diverse student needs and preferences, offering a mix of single, double, and triple occupancy options based on availability.\n\nLife at BR Ambedkar Hostel is vibrant and engaging, with a strong emphasis on community and extracurricular involvement. Students regularly participate in various cultural events, sports competitions, and academic workshops organized throughout the year. The hostel celebrates major festivals like Diwali, Holi, and Eid with enthusiasm, fostering a sense of camaraderie and cultural exchange among residents from different backgrounds. This active student life contributes to a holistic development experience, complementing their academic journey at the university.\n\nBR Ambedkar Hostel is committed to providing a conducive atmosphere for learning and personal growth. The administration ensures the well-being of its residents through diligent maintenance of facilities, robust security measures, and responsive support services. The hostel aims to be more than just a place of residence; it strives to be a supportive community where students can thrive academically, socially, and personally.",
+    "facilities": ["gym", "wifi", "library", "cafeteria"],
+    "hostelFor": "female",
+    "location": "New Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Sunita Verma",
+        "department": "Department of Botany",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500003",
+        "email": "sunita.verma.provost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Ms. Anjali Singh",
+        "department": "Department of Zoology",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500004",
+        "email": "anjali.singh.asstprovost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      }
+    ]
+  },
+  {
+    "hostelId": "H006",
+    "HostelName": "Aryabhata Hall",
+    "Total-Capacity": 190,
+    "No-of-rooms": {
+      "singleSeater": 10,
+      "doubleSeater": 25,
+      "tripleSeater": 40
+    },
+    "description": "Aryabhata Hall is a well-regarded male hostel located on the Old Campus of the University of Lucknow. With a capacity of 190 students, it offers a comfortable and secure living environment. The hostel features essential amenities such as a spacious common room for recreational activities, a dedicated dining hall serving regular meals, and campus-wide Wi-Fi connectivity to support academic pursuits. The rooms are designed to cater to diverse student needs and preferences, offering a mix of single, double, and triple occupancy options based on availability.\n\nLife at Aryabhata Hall is vibrant and engaging, with a strong emphasis on community and extracurricular involvement. Students regularly participate in various cultural events, sports competitions, and academic workshops organized throughout the year. The hostel celebrates major festivals like Diwali, Holi, and Eid with enthusiasm, fostering a sense of camaraderie and cultural exchange among residents from different backgrounds. This active student life contributes to a holistic development experience, complementing their academic journey at the university.\n\nAryabhata Hall is committed to providing a conducive atmosphere for learning and personal growth. The administration ensures the well-being of its residents through diligent maintenance of facilities, robust security measures, and responsive support services. The hostel aims to be more than just a place of residence; it strives to be a supportive community where students can thrive academically, socially, and personally.",
+    "facilities": ["wifi", "library", "indoor sports", "study room"],
+    "hostelFor": "male",
+    "location": "Old Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Alok Sharma",
+        "department": "Department of Physics",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500001",
+        "email": "alok.sharma.provost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Dr. Priya Mehta",
+        "department": "Department of Chemistry",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500002",
+        "email": "priya.mehta.asstprovost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      }
+    ]
+  },
+  {
+    "hostelId": "H007",
+    "HostelName": "Sarojini Naidu Hostel",
+    "Total-Capacity": 270,
+    "No-of-rooms": {
+      "singleSeater": 20,
+      "doubleSeater": 40,
+      "tripleSeater": 50
+    },
+    "description": "Sarojini Naidu Hostel is a well-regarded female hostel located on the New Campus of the University of Lucknow. With a capacity of 270 students, it offers a comfortable and secure living environment. The hostel features essential amenities such as a spacious common room for recreational activities, a dedicated dining hall serving regular meals, and campus-wide Wi-Fi connectivity to support academic pursuits. The rooms are designed to cater to diverse student needs and preferences, offering a mix of single, double, and triple occupancy options based on availability.\n\nLife at Sarojini Naidu Hostel is vibrant and engaging, with a strong emphasis on community and extracurricular involvement. Students regularly participate in various cultural events, sports competitions, and academic workshops organized throughout the year. The hostel celebrates major festivals like Diwali, Holi, and Eid with enthusiasm, fostering a sense of camaraderie and cultural exchange among residents from different backgrounds. This active student life contributes to a holistic development experience, complementing their academic journey at the university.\n\nSarojini Naidu Hostel is committed to providing a conducive atmosphere for learning and personal growth. The administration ensures the well-being of its residents through diligent maintenance of facilities, robust security measures, and responsive support services. The hostel aims to be more than just a place of residence; it strives to be a supportive community where students can thrive academically, socially, and personally.",
+    "facilities": ["gym", "wifi", "library", "garden"],
+    "hostelFor": "female",
+    "location": "Old Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Sunita Verma",
+        "department": "Department of Botany",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500003",
+        "email": "sunita.verma.provost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Ms. Anjali Singh",
+        "department": "Department of Zoology",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500004",
+        "email": "anjali.singh.asstprovost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      }
+    ]
+  },
+  {
+    "hostelId": "H008",
+    "HostelName": "Tagore Hall",
+    "Total-Capacity": 175,
+    "No-of-rooms": {
+      "singleSeater": 10,
+      "doubleSeater": 25,
+      "tripleSeater": 35
+    },
+    "description": "Tagore Hall is a well-regarded male hostel located on the Old Campus of the University of Lucknow. With a capacity of 175 students, it offers a comfortable and secure living environment. The hostel features essential amenities such as a spacious common room for recreational activities, a dedicated dining hall serving regular meals, and campus-wide Wi-Fi connectivity to support academic pursuits. The rooms are designed to cater to diverse student needs and preferences, offering a mix of single, double, and triple occupancy options based on availability.\n\nLife at Tagore Hall is vibrant and engaging, with a strong emphasis on community and extracurricular involvement. Students regularly participate in various cultural events, sports competitions, and academic workshops organized throughout the year. The hostel celebrates major festivals like Diwali, Holi, and Eid with enthusiasm, fostering a sense of camaraderie and cultural exchange among residents from different backgrounds. This active student life contributes to a holistic development experience, complementing their academic journey at the university.\n\nTagore Hall is committed to providing a conducive atmosphere for learning and personal growth. The administration ensures the well-being of its residents through diligent maintenance of facilities, robust security measures, and responsive support services. The hostel aims to be more than just a place of residence; it strives to be a supportive community where students can thrive academically, socially, and personally.",
+    "facilities": ["wifi", "library", "indoor sports", "cafeteria"],
+    "hostelFor": "male",
+    "location": "Old Campus",
+    "administration": [
+      {
+        "role": "Provost",
+        "name": "Dr. Alok Sharma",
+        "department": "Department of Physics",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500001",
+        "email": "alok.sharma.provost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      },
+      {
+        "role": "Assistant Provost",
+        "name": "Dr. Priya Mehta",
+        "department": "Department of Chemistry",
+        "university": "University of Lucknow",
+        "campus": "Lucknow - 226007",
+        "mobile": "9876500002",
+        "email": "priya.mehta.asstprovost@lkouniv.ac.in",
+        "imageUrl": "/images/placeholder_avatar.png"
+      }
+    ]
+  }
+]
